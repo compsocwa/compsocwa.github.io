@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ieee.org'>EEEE</a>. Western Australia Chapter
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ieeewa.jpg
   address: >
     <p>Curtin University</p>
     <p>Bentley</p>
