@@ -2,7 +2,7 @@
 layout: about
 title: IEEE CompSoc WA
 permalink: /
-subtitle: <a href='https://www.ieee.org'>EEEE</a>. Western Australia Chapter
+subtitle: <a href='https://www.ieee.org'>IEEE</a>. Western Australia Chapter
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the IEEE Computer Society ([Western Australia Chapter](https://ewh.ieee.org/r10/w_australia/computer/))!
+Welcome to the IEEE Computer Society, [Western Australia Chapter](https://ewh.ieee.org/r10/w_australia/computer/) !
 
 With nearly 85,000 members, the [IEEE Computer Society](https://www.computer.org/) is the world's leading organization of computer professionals. Founded in 1946, it is the largest of the 39 societies of the IEEE.
 
