@@ -1,21 +1,44 @@
 ---
 layout: post
 title: The IEEE Computer Society Quarterly Meeting
-date: 2022-05-21 16:11:00-0400
+date: 2022-07-20 16:11:00-0400
 inline: false
 ---
 
-We are pleased to inform that the next meeting of the society will be held online via Ms Teams
+Meeting notes - July 2022
 
 ***
-Agenda
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+**Meeting 21/07/2022 - meeting started at 12:04pm**
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+**Attendance:**
+
+Johannes Herrmann (Chair), Valerie Maxville (Secretary), Sajib Mistry (Treasurer), Sonny Pham (OCM), Kevin Wong (Vice Chair)
+
+1.  **Webinar 1**
+
+All committee members have received the eNotice. Hannes computing staff and add it to Colloquium. Valerie will send it out via Meetup. (This was done during the meeting.)
+
+2.  **Discuss other events**
+
+Hannes is talking to researchers in France, Glenn Butcher locally and the Innovation Centre. Sajib will organize a talk with a professor from Wollongong. Sonny will talk to some people who may be distinguished speakers. Andrew will reach out to Andrew Turpin.
+
+**Action:** Next meeting committee members will propose names and rank suggestions. We will also consider suggesting topics.
+
+Next meeting in two weeks.
+
+Regular events scheduled - last Thursday of the month.
+
+12:29 Sonny left the meeting.
+
+3.  **Website**
+
+Sonny has volunteered to develop the Github website. Hannes will work with him on contents.
+
+4.  **AoB**
+
+No other business.
+
+**Meeting ended at 12:37.**
+
+Next meeting, 11am on Thursday Aug 4.
