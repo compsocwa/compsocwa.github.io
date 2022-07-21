@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The IEEE Computer Society Quarterly Meeting
+title: Minutes from the July meeting
 date: 2022-07-20 16:11:00-0400
 inline: false
 ---
 
-Meeting notes - July 2022
+Meeting Minutes - July 2022
 
 ***
 
