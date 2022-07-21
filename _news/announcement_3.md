@@ -14,7 +14,7 @@ Attendance:
 
 Johannes Herrmann (Chair), Valerie Maxville (Secretary), Sajib Mistry (Treasurer), Sonny Pham (OCM), Kevin Wong (Vice Chair)
 
-Webinar #1
+Webinar 1
 
 All committee members have received the eNotice. Hannes computing staff and add it to Colloquium. Valerie will send it out via Meetup. (This was done during the meeting.)
 
@@ -38,7 +38,6 @@ Sonny has volunteered to develop the Github website. Hannes will work with him o
 AoB
 
 No other business.
-
  
 
 Meeting ended at 12:37.
