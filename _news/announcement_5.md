@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The IEEE WA Chapter and the School of EECMS, Curtin University have successfully co-hosted a seminar by a distinguished guest speaker, Prof. Rajkumar Buyya from Melbourne University, who gave a lecture titled "Neoteric Frontiers in Cloud, Edge, and Quantum Computing.
+title: The IEEE WA Chapter and the School of EECMS, Curtin University have successfully co-hosted a seminar by a distinguished guest speaker, Prof. Rajkumar Buyya from Melbourne University.
 date: 2022-09-06 21:00:00-0400
 inline: false
 ---
@@ -10,7 +10,7 @@ The IEEE WA Chapter and the School of EECMS, Curtin University have successfully
 ***
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/seminar202209.jpg" title="seminar 06-09-2022" class="seminar" %}
+        {% include figure.html path="assets/img/seminar202209.jpg" title="seminar 06-09-2022" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
 <div class="caption">
