@@ -7,9 +7,9 @@ subtitle: <a href='https://www.ieee.org'>IEEE</a>. Western Australia Chapter
 profile:
   align: right
   image: ieeewa.jpg
-  address: >    
+  address:     
     <p>Perth</p>
-    <p>Western Australia</p>
+    <p>Western Australia</p>    
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
